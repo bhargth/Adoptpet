@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Adoptpet/static/js/main.19bb7f0e.chunk.js",
+    "main.js.map": "/Adoptpet/static/js/main.19bb7f0e.chunk.js.map",
+    "runtime-main.js": "/Adoptpet/static/js/runtime-main.f9305efd.js",
+    "runtime-main.js.map": "/Adoptpet/static/js/runtime-main.f9305efd.js.map",
+    "static/js/2.29513f50.chunk.js": "/Adoptpet/static/js/2.29513f50.chunk.js",
+    "static/js/2.29513f50.chunk.js.map": "/Adoptpet/static/js/2.29513f50.chunk.js.map",
+    "static/js/3.9ca0359a.chunk.js": "/Adoptpet/static/js/3.9ca0359a.chunk.js",
+    "static/js/3.9ca0359a.chunk.js.map": "/Adoptpet/static/js/3.9ca0359a.chunk.js.map",
+    "index.html": "/Adoptpet/index.html",
+    "static/js/2.29513f50.chunk.js.LICENSE.txt": "/Adoptpet/static/js/2.29513f50.chunk.js.LICENSE.txt",
+    "static/media/logo.c7c56d31.svg": "/Adoptpet/static/media/logo.c7c56d31.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9305efd.js",
+    "static/js/2.29513f50.chunk.js",
+    "static/js/main.19bb7f0e.chunk.js"
+  ]
+}
